@@ -88,7 +88,7 @@ h1{
 
 @media (min-width: 768px) { 
     .row{
-        width: 768px;
+        width: 923px;
         height: 525px;
     }
 
@@ -112,7 +112,7 @@ h1{
 
     .image{
         background: url("../images/bg-pattern-desktop.svg");
-        background-position: -687px -307px;
+        background-position: -615px -296px;
         background-repeat: no-repeat;
         display: flex;
         justify-content: center;
