@@ -94,7 +94,6 @@ h1{
 
     .img{
         position: relative;
-        content: url("../images/illustration-woman-online-desktop.svg");
         top: 13px;
         width: 100%;
         left: 16px;
@@ -103,7 +102,6 @@ h1{
 
     .img-block{
         position: relative;
-        content: url("../images/illustration-box-desktop.svg");
         top:9%;
         width: 150px;
         left:-102%;
